@@ -1,0 +1,4 @@
+git branch -m main मुख्य
+git fetch origin
+git branch -u उत्पत्ति/मुख्य  मुख्य 
+git remote set-head origin -a
